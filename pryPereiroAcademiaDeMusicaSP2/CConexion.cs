@@ -59,8 +59,13 @@ namespace pryPereiroAcademiaDeMusicaSP2
             return resultado;
         }
 
+        public string ObtenerError()
+        {
+            return ERROR;
+        }
     }
 
+    
 
 
 

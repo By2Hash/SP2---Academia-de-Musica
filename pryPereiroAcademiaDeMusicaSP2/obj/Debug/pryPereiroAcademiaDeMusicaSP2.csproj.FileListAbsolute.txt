@@ -11,3 +11,5 @@ C:\Users\baupe\OneDrive\Escritorio\pryPereiroAcademiaDeMusicaSP2\pryPereiroAcade
 C:\Users\baupe\OneDrive\Escritorio\pryPereiroAcademiaDeMusicaSP2\pryPereiroAcademiaDeMusicaSP2\bin\Debug\pryPereiroAcademiaDeMusicaSP2.pdb
 C:\Users\baupe\OneDrive\Escritorio\pryPereiroAcademiaDeMusicaSP2\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPereiroAcademiaDeMusicaSP2.exe
 C:\Users\baupe\OneDrive\Escritorio\pryPereiroAcademiaDeMusicaSP2\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPereiroAcademiaDeMusicaSP2.pdb
+C:\Users\baupe\OneDrive\Escritorio\pryPereiroAcademiaDeMusicaSP2\pryPereiroAcademiaDeMusicaSP2\bin\Debug\Academia.mdb
+C:\Users\baupe\OneDrive\Escritorio\pryPereiroAcademiaDeMusicaSP2\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPereiroAcademiaDeMusicaSP2.exe.config

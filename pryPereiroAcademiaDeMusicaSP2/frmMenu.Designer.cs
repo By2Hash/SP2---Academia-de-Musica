@@ -71,14 +71,16 @@
             // nuevoTemaToolStripMenuItem
             // 
             this.nuevoTemaToolStripMenuItem.Name = "nuevoTemaToolStripMenuItem";
-            this.nuevoTemaToolStripMenuItem.Size = new System.Drawing.Size(241, 34);
+            this.nuevoTemaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.nuevoTemaToolStripMenuItem.Text = "Nuevo Tema";
+            this.nuevoTemaToolStripMenuItem.Click += new System.EventHandler(this.nuevoTemaToolStripMenuItem_Click);
             // 
             // verVideoTemaToolStripMenuItem
             // 
             this.verVideoTemaToolStripMenuItem.Name = "verVideoTemaToolStripMenuItem";
-            this.verVideoTemaToolStripMenuItem.Size = new System.Drawing.Size(241, 34);
+            this.verVideoTemaToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.verVideoTemaToolStripMenuItem.Text = "Ver Video-Tema";
+            this.verVideoTemaToolStripMenuItem.Click += new System.EventHandler(this.verVideoTemaToolStripMenuItem_Click);
             // 
             // salirToolStripMenuItem
             // 
@@ -92,11 +94,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(833, 450);
+            this.ControlBox = false;
             this.Controls.Add(this.mnsMenu);
             this.MainMenuStrip = this.mnsMenu;
             this.Name = "frmMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Academia de Música";
+            this.Load += new System.EventHandler(this.frmMenu_Load);
             this.mnsMenu.ResumeLayout(false);
             this.mnsMenu.PerformLayout();
             this.ResumeLayout(false);
