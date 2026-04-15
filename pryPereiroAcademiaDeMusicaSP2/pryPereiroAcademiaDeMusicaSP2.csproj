@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="geckofx-core, Version=33.0.5.0, Culture=neutral, PublicKeyToken=3209ac31600d1857, processorArchitecture=MSIL">
+      <HintPath>..\packages\geckofx-core.33.0.5.1\lib\net40\geckofx-core.dll</HintPath>
+    </Reference>
+    <Reference Include="geckofx-winforms, Version=33.0.5.0, Culture=neutral, PublicKeyToken=3209ac31600d1857, processorArchitecture=MSIL">
+      <HintPath>..\packages\geckofx-winforms.33.0.5.1\lib\net40\geckofx-winforms.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -96,6 +102,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

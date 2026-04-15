@@ -47,6 +47,7 @@
             this.btnVerVideo.TabIndex = 0;
             this.btnVerVideo.Text = "&Ver Video";
             this.btnVerVideo.UseVisualStyleBackColor = true;
+            this.btnVerVideo.Click += new System.EventHandler(this.btnVerVideo_Click);
             // 
             // btnSalir
             // 
@@ -92,6 +93,7 @@
             this.cmbCantante.Name = "cmbCantante";
             this.cmbCantante.Size = new System.Drawing.Size(197, 28);
             this.cmbCantante.TabIndex = 5;
+            this.cmbCantante.SelectedIndexChanged += new System.EventHandler(this.cmbCantante_SelectedIndexChanged);
             // 
             // cmbTemas
             // 
@@ -100,6 +102,7 @@
             this.cmbTemas.Name = "cmbTemas";
             this.cmbTemas.Size = new System.Drawing.Size(352, 28);
             this.cmbTemas.TabIndex = 6;
+            this.cmbTemas.SelectedIndexChanged += new System.EventHandler(this.cmbTemas_SelectedIndexChanged);
             // 
             // txtLink
             // 
@@ -133,6 +136,7 @@
             this.Name = "frmVideo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ver Video";
+            this.Load += new System.EventHandler(this.frmVideo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

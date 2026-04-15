@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|c:\\users\\baupe\\onedrive\\escritorio\\by2hash\\sp2---academia-de-musica\\prypereiroacademiademusicasp2\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\clases\\ctema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\clases\\ctema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|c:\\users\\baupe\\onedrive\\escritorio\\by2hash\\sp2---academia-de-musica\\prypereiroacademiademusicasp2\\frmtema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmtema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmtema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\clases\\ccantantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\clases\\ccantantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\clases\\ctema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\clases\\ctema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|solutionrelative:prypereiroacademiademusicasp2\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{634C78B0-74C3-4167-ABB8-A99900AEA02B}|pryPereiroAcademiaDeMusicaSP2\\pryPereiroAcademiaDeMusicaSP2.csproj|C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\prypereiroacademiademusicasp2\\frmcantante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,35 +66,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmTema.cs",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmTema.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmTema.cs",
               "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmTema.cs",
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmTema.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAADwvxgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T19:10:09.366Z",
+              "WhenOpened": "2026-04-15T20:18:05.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "frmTema.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmTema.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmTema.cs",
               "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmTema.cs [Dise\u00F1o]",
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmTema.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T19:02:44.156Z"
+              "WhenOpened": "2026-04-15T19:02:44.156Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "CTema.cs",
+              "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
+              "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
+              "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
+              "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwEcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:50:55.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVideo.cs",
+              "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs",
+              "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs",
+              "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs*",
+              "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwHgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T19:41:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CConexion.cs",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CConexion.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CConexion.cs",
@@ -102,34 +133,36 @@
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CConexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T18:48:51.9Z"
+              "WhenOpened": "2026-04-15T18:48:51.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CCantantes.cs",
-              "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CCantantes.cs",
-              "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CCantantes.cs",
-              "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CCantantes.cs",
-              "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CCantantes.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "frmVideo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs",
+              "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs",
+              "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T18:50:05.378Z"
+              "WhenOpened": "2026-04-04T23:32:44.397Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "frmCantante.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs",
               "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs [Dise\u00F1o]",
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T23:32:38.562Z"
+              "WhenOpened": "2026-04-04T23:32:38.562Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmCantante.cs",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs",
@@ -137,11 +170,12 @@
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmCantante.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:36:26.551Z"
+              "WhenOpened": "2026-04-07T03:36:26.551Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "frmMenu.cs",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs",
@@ -149,41 +183,20 @@
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAgwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:36:51.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CTema.cs",
-              "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
-              "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
-              "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
-              "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\Clases\\CTema.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T18:50:55.067Z"
+              "WhenOpened": "2026-04-07T03:36:51.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "frmVideo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs",
-              "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs",
-              "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T23:32:44.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "frmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs",
               "RelativeDocumentMoniker": "pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs",
               "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs [Dise\u00F1o]",
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T21:10:59.622Z"
+              "WhenOpened": "2026-04-04T21:10:59.622Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -195,7 +208,8 @@
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmCantante.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T21:09:39.317Z"
+              "WhenOpened": "2026-04-04T21:09:39.317Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -206,7 +220,8 @@
               "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmCantante.resx",
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmCantante.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-04-04T21:09:39.292Z"
+              "WhenOpened": "2026-04-04T21:09:39.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -218,7 +233,8 @@
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T21:09:36.891Z"
+              "WhenOpened": "2026-04-04T21:09:36.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -229,7 +245,8 @@
               "ToolTip": "C:\\Users\\baupe\\OneDrive\\Escritorio\\By2Hash\\SP2---Academia-de-Musica\\pryPereiroAcademiaDeMusicaSP2\\frmVideo.resx",
               "RelativeToolTip": "pryPereiroAcademiaDeMusicaSP2\\frmVideo.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-04-04T21:09:36.273Z"
+              "WhenOpened": "2026-04-04T21:09:36.273Z",
+              "EditorCaption": ""
             }
           ]
         }

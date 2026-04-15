@@ -42,3 +42,9 @@ C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAc
 C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPereiroAcademiaDeMusicaSP2.csproj.CoreCompileInputs.cache
 C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPereiroAcademiaDeMusicaSP2.exe
 C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPereiroAcademiaDeMusicaSP2.pdb
+C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\bin\Debug\geckofx-core.dll
+C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\bin\Debug\geckofx-winforms.dll
+C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\bin\Debug\geckofx-core.pdb
+C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\bin\Debug\geckofx-core.dll.config
+C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\bin\Debug\geckofx-winforms.pdb
+C:\Users\baupe\OneDrive\Escritorio\By2Hash\SP2---Academia-de-Musica\pryPereiroAcademiaDeMusicaSP2\obj\Debug\pryPerei.A9441709.Up2Date

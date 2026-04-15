@@ -73,34 +73,43 @@ namespace pryPereiroAcademiaDeMusicaSP2
             string Link = "";
             long IdCantante = 0;
 
-            if(ValidarDatos())
+            if (ValidarDatos())
             {
-                long.TryParse(txtID.Text, out IdTema);
-                Nombre = txtNombre.Text;
-                long.TryParse(cmbCantantes.SelectedValue.ToString(), out IdCantante);
-                Link = txtLink.Text;
-
-                if (tema.BuscarTema(IdTema, IdCantante) == false)
+                try
                 {
-                    if(tema.NuevoTema(IdTema, IdCantante, Nombre, Link))
+                    long.TryParse(txtID.Text, out IdTema);
+                    Nombre = txtNombre.Text;
+                    long.TryParse(cmbCantantes.SelectedValue.ToString(), out IdCantante);
+                    Link = txtLink.Text;
+
+                    if (tema.BuscarTema(IdTema, IdCantante) == false)
                     {
-                        txtID.Text = "";
-                        txtNombre.Text = "";
-                        txtLink.Text = "";
+                        if (tema.NuevoTema(IdTema, IdCantante, Nombre, Link))
+                        {
+                            txtID.Text = "";
+                            txtNombre.Text = "";
+                            txtLink.Text = "";
+                        }
+                        else
+                        {
+                            // Mostrar el error real devuelto por CTema para depurar por qué falló el guardado
+                            MessageBox.Show("Error grabando el tema: " + tema.ObtenerError());
+                        }
                     }
                     else
-                                            {
-                        MessageBox.Show("Error grabando el tema");
+                    {
+                        MessageBox.Show("El tema ya existe para ese cantante");
                     }
                 }
-                else
+                catch (Exception ex)
                 {
-                    MessageBox.Show("El tema ya existe para ese cantante");
+                    // Capturar excepciones inesperadas y mostrarlas para depuración
+                    MessageBox.Show("Excepción al intentar guardar: " + ex.Message);
                 }
             }
             else
             {
-                    MessageBox.Show("Por favor, complete todos los campos correctamente.");
+                MessageBox.Show("Por favor, complete todos los campos correctamente.");
             }
         }
     }
